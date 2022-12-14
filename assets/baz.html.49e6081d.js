@@ -1,0 +1,1 @@
+import{ab as e,A as t,B as a,z as s}from"./framework.2767c65f.js";const c={},o=s("p",null,"Feature details here.",-1),_=[o];function n(r,l){return t(),a("div",null,_)}const i=e(c,[["render",n],["__file","baz.html.vue"]]);export{i as default};
